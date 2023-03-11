@@ -11,9 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a front-end developer.
-
-- :telescope: I’m currently looking for job opportunities as a software engineer.
+I'm from Tasikmalaya, but now I live in Sukabumi, Indonesia
 
 - :seedling: Always exploring new technologies that are relevant to my role.
 
