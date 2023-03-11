@@ -24,9 +24,9 @@ I am a front-end developer.
  <a href="https://www.linkedin.com/in/deni-setiawan-69967b225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p href="/">
+  <a href="/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </p>
+  </a>
   <a href="mailto:denistwn67@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -43,4 +43,4 @@ I am a front-end developer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RizuMong&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RizuMong&show_icons=true&count_private=true&theme=algolia)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizuMong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RizuMong" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deni-stwn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RizuMong" height="192px"/>
