@@ -41,6 +41,6 @@ I am a front-end developer.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RizuMong&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RizuMong&show_icons=true&count_private=true&theme=algolia)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deni-stwn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RizuMong" height="192px"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deni_stwn&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deni-stwn&show_icons=true&count_private=true&theme=algolia)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deni-stwn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="deni-stwn" height="192px"/>
